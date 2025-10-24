@@ -31,7 +31,6 @@ Develop **YouLearn AI**, a mobile-first, AI-powered learning assistant that:
 - As a professional, I want to share completed courses on LinkedIn.
 
 ## 6. Constraints
-- MVP must be built within 48 hours (competition deadline).
 - Use only free-tier or low-cost APIs/tools (YouTube API, Supabase free plan, n8n).
 
 ## 7. Deliverables
