@@ -34,7 +34,7 @@ Develop **YouLearn AI**, a mobile-first, AI-powered learning assistant that:
 - Use only free-tier or low-cost APIs/tools (YouTube API, Supabase free plan, n8n).
 
 ## 7. Deliverables
-- Hosted, mobile-first MVP link: [URL: https://lovable.dev/projects/d171c179-278a-456e-a16f-916abf8c036b](url)
+- Hosted, mobile-first MVP link: https://youlearn-ai.lovable.app/
 - GitHub repository with clean commit history
 - Loom walkthrough video
 - Slide deck summarizing problem, solution, and impact
