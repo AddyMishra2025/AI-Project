@@ -22,6 +22,7 @@ YouLearn AI solves these problems by:
 - Adding **AI-generated summaries, notes, and interactive quizzes**.
 - Tracking **progress** and gamifying learning with streaks and achievements.
 - Suggesting **career paths** and generating shareable LinkedIn posts.
+- Final MVP : https://youlearn-ai.lovable.app/
 
 ---
 
